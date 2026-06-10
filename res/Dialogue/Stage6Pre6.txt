@@ -1,0 +1,14 @@
+[Azrael]
+[Lilith1]
+[E]Congratulations on making it here.
+[P]Lilith. Where is Abaddon? And where is my body?
+[E]Wouldn't it be too easy if I just told you everything now?
+[P]I really will kill you.
+[E]The smallest dogs bark the loudest you know.
+[P]The smallest dogs are the scary ones you know.
+[E]You probably have never seen a dog anyway.
+[P]There's one in front of me right now.
+[E]Dogs don't have horns.
+[P]Oh is that right? Let me cut them off then.
+[E]Don't worry. I'll go easy on you.
+[END]

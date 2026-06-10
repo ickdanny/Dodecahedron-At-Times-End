@@ -1,0 +1,12 @@
+[Azrael]
+[Pax]
+[E]How's the new body?
+[P]Awful! No good! Ugly!
+[E]Well that's a shame. Do you like the lasers?
+[P]Hmm... they're not strong enough!
+[E]Unfortunately the strength of the lasers were not a design priority.
+[P]More like, what did you guys do with my old body?
+[E]Ahh well, you can go ask Lilith. Actually, talking to you hurts me. She's right up ahead. 
+[P]Hah, finally someone wise enough to see my strength!
+[E]Mmm. 
+[END]

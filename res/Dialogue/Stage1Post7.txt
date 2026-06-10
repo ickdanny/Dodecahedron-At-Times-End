@@ -1,0 +1,5 @@
+[Azrael]
+[Mira2]
+[E]Well I'm tired now. I won't see you later.
+[P]Don't catch your tail between your legs!
+[END]

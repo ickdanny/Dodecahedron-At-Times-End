@@ -1,0 +1,8 @@
+[Abaddon]
+[Mira1]
+[P]It's about time you showed up.
+[E]It's really not you know. Are you looking for your sister? If so you're going the wrong direction.
+[P]Then why are you blocking my way?
+[E]Because I was told to.
+[E]Well that's a hassle. Don't worry I'll go easy on you.
+[END]

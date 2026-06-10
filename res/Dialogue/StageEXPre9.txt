@@ -1,0 +1,8 @@
+[Mira3]
+[Lilith2]
+[P]I'm so bored.
+[E]Sorry, I'm occupied right now. Could you stall for a while?
+[P]What do you mean by stall?
+[E]Ahh, please don't freeze her.
+[P]Understood.
+[END]

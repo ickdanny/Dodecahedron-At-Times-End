@@ -1,0 +1,10 @@
+[Abaddon]
+[Pax]
+[E]You may pass.
+[P]Oh... Thank you.
+[P]Have you seen Azrael around?
+[E]You may pass.
+[P]Oh...
+[E]Please pass.
+[P]Right, thank you.
+[END]

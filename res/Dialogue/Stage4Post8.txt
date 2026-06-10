@@ -1,0 +1,4 @@
+[Azrael]
+[]
+[P]What an idiot! She almost died!
+[END]

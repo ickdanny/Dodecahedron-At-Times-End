@@ -1,0 +1,5 @@
+[Azrael]
+[Xiao Li]
+[E]My name is Xiao Li. I promise you shall not make it past me alive. Turn back if you wish to live.
+[P]Haha show me with your actions and not your words! Enough talk! Just die!
+[END]

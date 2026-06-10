@@ -1,0 +1,8 @@
+[Azrael]
+[Mira2]
+[P]Who are you?
+[E]I'm not going to answer that question. More importantly, I was asked to prevent you from progressing further.
+[P]Are we fighting? I'll kill if you aren't careful.
+[E]You should worry about yourself before you worry about others.
+[P]Well, prepare to die.
+[END]

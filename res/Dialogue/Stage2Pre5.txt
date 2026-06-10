@@ -1,0 +1,7 @@
+[Azrael]
+[Neo]
+[P]Ahh it's really cold in here. Could someone please turn up the heat more?
+[E]Hmm... it seems just right to me though.
+[P]Maybe I'll burn you up then.
+[E]I don't think that will work at all. You can try your best though.
+[END]

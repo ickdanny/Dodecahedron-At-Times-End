@@ -1,0 +1,5 @@
+[Azrael]
+[]
+[P]Ah, she ran away.
+[P]Hmph. Well I suppose there was no choice since I'm so much stronger!
+[END]

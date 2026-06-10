@@ -1,0 +1,43 @@
+Thanks for playing my game!
+
+About 20 months prior to the release of this game I set out to chase my idol.
+
+I worked completely based upon instinct. I suppose I have created a surreal game.
+
+There was almost no prior planning in the programming, the visuals, the sound, the gameplay, and the writing, 
+what I would consider the five distinct fields which comprise a danmaku game.
+
+The programming, while having some reusable elements, is a byzantine labyrinth.
+Although all the scripts were hard coded the behavior system was relatively simple to extend to almost every danmaku pattern.
+Implementing Xiao Li's rudimentary state-based behavior system (which includes... two states) was incredibly difficult.
+All the bullets are allocated on the fly so there appear to be lag spikes.
+
+For the visuals, I spent an entire year starting from being able to draw stick figures.
+The program I used to make every asset was definitely made for illustration, and not sprite creation.
+And of course much of the user interface was drawing rectangles and text.
+
+When it came time to create the sounds I was down to about three months, so deciding to forgo sound effects I focused completely on writing music.
+The music was written completely on the computer. 
+Again, to save time, I decided to forgo instrumentation completely.
+Well in the end, I can say there's one riff that's worth listening to. It's in track 4.
+Due to lack of experience I couldn't write any nice looping tracks, so I decided to just loop abruptly.
+
+As for the actual danmaku... 
+I realized soon into development that coming up with novel mechanics and combining them in meaningful ways were not one and the same.
+And while I had understood that the bullets were flying too quickly I never really internalized that often the slower the bullets go the more difficult the danmaku.
+The more difficult part was hard coding in all the mob spawns in the levels. Somehow the mobs move too slowly!
+Due to time concerns and... lack of experience I was not able to do much playtesting, hence why the highest difficulty is named "untested".
+Another reason for this is because the game isn't particularly fun to play at all. 
+Indeed, if the danmaku looked possible for a robot I let it go without any concern for whether or not a human would be able to do the same.
+I suspect more than a few spells are actually impossible on untested, and in the extra stage. I doubt any enemy formations are impossible though.
+The one concern is the stage 5 army. But since there's no RNG in the spawns or the attacks there must be safe spots somewhere.
+Well that will be left as an exercise for the player. 
+
+And for the story, well all I can say is there was one. Perhaps the dialogue was too strange for any of you to understand it?
+The idea for the stage 5 boss to not fight was actually not a time concession. I just thought it would be interesting.
+The Lilith dialogue sprite you see in the extra stage was meant to be used in stage 6. Unfortunately the engine was not really capable of displaying it.
+As for my favorite character? In terms of design, perhaps Xiao Li. But her personality is quite strange. 
+In the end none of the characters are fleshed out enough for me to relate to them.
+
+All in all I would consider this game a monumental success. orz
+

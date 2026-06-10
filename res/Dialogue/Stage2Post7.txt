@@ -1,0 +1,12 @@
+[Azrael]
+[Neo]
+[E]Looks like I didn't turn into a pile of ash after all.
+[P]Are you wearing flame retardant clothes?
+[E]No, it's genetic.
+[P]Anyway, was that it?
+[E]Yeah. I worked really hard today.
+[E]Oh, could you tell Claire I said hi?
+[P]No, go tell her yourself. 
+[E]*Sigh*... I haven't seen her all day.
+[E]Ok! I'm going to sleep.
+[END]

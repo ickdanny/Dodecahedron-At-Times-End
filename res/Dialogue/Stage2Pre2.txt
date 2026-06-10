@@ -1,0 +1,27 @@
+[Abaddon]
+[Neo]
+[P]Man it's so hot in here.
+[E]Haha it's always like that don't sweat it!
+[P]And what were those robots?
+[E]Oh I dunno I was just told to keep them here. I think they were supposed to scare you away.
+[P]They weren't that scary though...
+[E]Yeah that's what I told Pax! She said to me "Why don't you make some better ones then?"
+[P]Oh?
+[E]Yeah yeah I told her that making robots is super boring.
+[P]Oh?
+[E]And she says to me "Yeah."
+[P]..Oh?
+[E]So I said to her "Yeah."
+[P]...Oh?
+[E]But in my head I'm thinking if she's so bored making them why didn't she just not make them right?
+[P]Yeah?
+[E]You know if someone ever asks you to do something you don't wanna do just don't do it!
+[P]How wise...
+[P]Anyway, I'm looking for my sister...
+[E]Ahh nope I can't answer any questions about Azrael. Sorry!
+[P]Mmm I figured.
+[E]Ahh and on that note I'm supposed to stop you from going past here.
+[P]Yeah but could you please just let me go?
+[E]Ahh but that doesn't sound like much fun does it?
+[E]Ok try not to die!
+[END]

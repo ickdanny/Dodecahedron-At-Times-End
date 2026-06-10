@@ -1,0 +1,7 @@
+[Abaddon]
+[Mira1]
+[P]Why did we even have to do that?
+[E]If you keep talking I'll get a headache. Just go. 
+[P]Is Azrael up ahead?
+[E]Ok bye.
+[END]

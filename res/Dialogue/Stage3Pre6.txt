@@ -1,0 +1,11 @@
+[Azrael]
+[Claire]
+[E]Welcome to my web!
+[P]Get out of my way.
+[E]Sorry, I really can't do that.
+[P]I'll squash you to death otherwise. It's really for your own good.
+[E]Actually if you cared about my own good you would just turn around.
+[P]Haha, I guess that's true.
+[P]Well prepare to die then.
+[E]Don't worry, you're not strong enough to kill me.
+[END]

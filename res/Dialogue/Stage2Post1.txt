@@ -1,0 +1,12 @@
+[Abaddon]
+[Neo]
+[E]Ok that's enough! Good luck ahead!
+[P]Thank you.
+[E]Mmm and tell Claire I said hi!
+[P]I won't.
+[P]More like, why don't you tell her yourself?
+[E]Well, you know...
+[E]Oh! I gotta go repair some robots yeah?
+[P]...Oh?
+[E]Mmm bye!
+[END]

@@ -1,0 +1,6 @@
+[Abaddon]
+[Xiao Li]
+[P]Ahh here's an annoying person.
+[E]Greetings Abaddon. I will fight you here.
+[E]Enough words! Let us begin.
+[END]

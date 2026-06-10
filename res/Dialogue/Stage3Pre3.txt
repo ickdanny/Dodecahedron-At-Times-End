@@ -1,0 +1,10 @@
+[Abaddon]
+[Claire]
+[P]Oh is this the center?
+[E]Welcome to my web!
+[P]Hi Claire. Could we skip the fighting please?
+[E]I was going to do that, but Neo told me to have more fun.
+[P]Well, fighting doesn't sound like much fun to me.
+[E]Yeah I think so too... Lets just get to it then.
+[P]Oh...
+[END]
