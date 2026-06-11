@@ -24,4 +24,4 @@ cd Dodecahedron-At-Times-End
 
 ## Usage
 
-The build script should create the directory `DATE` and the archive `DATE.zip`. To launch the game, navigate to `DATE` and run `DATE.exe`.
+The build script should create the directory `EU01_DATE` and the archive `EU01_DATE.zip`. To launch the game, navigate to `EU01_DATE` and run `EU01_DATE.exe`.
